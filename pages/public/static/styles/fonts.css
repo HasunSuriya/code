@@ -1,0 +1,64 @@
+@font-face {
+    font-family: 'Courgette';
+    src: url('/public/static/fonts/Courgette-Regular.ttf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Courgette';
+    src: url('/public/static/fonts/Courgette-Medium.ttf');
+}
+
+@font-face { 
+    font-family: 'Courgette';
+    src: url('/public/static/fonts/Courgette-Mediumitalic.ttf');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Courgette';
+    src: url('/public/static/fonts/Courgette-Light.ttf');
+    font-weight: 300;
+    font-style: lighter;
+}
+
+@font-face {
+    font-family: 'Courgette';
+    src: url('/public/static/fonts/Courgette-Lightitalic.ttf');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Courgette';
+    src: url('/public/static/fonts/Courgette-Italic.ttf');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Courgette';
+    src: url('/public/static/fonts/Courgette-Bold.ttf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Courgette';
+    src: url('/public/static/fonts/Courgette-BoldItalic.ttf');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Courgette';
+    src: url('/public/static/fonts/Courgette-ExtraBold.ttf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Courgette';
+    src: url('/public/static/fonts/Courgette-ExtraBoldItalic.ttf');
+    font-weight: bold;
+    font-style: italic;
+}
